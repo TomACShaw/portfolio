@@ -10,3 +10,4 @@ Data analysis projects include:
 Coding projects include: 
 * Coffee Shop Database final class project
 * ConfidantHelper applet (work in progress)
+* Kaggle assignments with Pandas, NumPy, Seaborn, and Matplotlib
