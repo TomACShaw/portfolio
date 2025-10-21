@@ -2,8 +2,8 @@
 A repository for my data analysis projects including SQL queries, Tableau visualizations, Python projects, and more.
 
 Links:
-[LinkedIn](www.linkedin.com/in/tomacshaw)
-[Kaggle](www.kaggle.com/tomacshaw)
+[LinkedIn](https://www.linkedin.com/in/tomacshaw)
+[Kaggle](httpsd://www.kaggle.com/tomacshaw)
 [Tableau](https://public.tableau.com/app/profile/tom.shaw8413/vizzes)
 
 Data analysis projects include:
